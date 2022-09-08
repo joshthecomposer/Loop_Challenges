@@ -1,4 +1,4 @@
-# ASSIGNMENT TITLE
+# Loop Challenges
 This was a brief exercise completed for Coding Dojo.
 ### Objectives:
 * Get comfortable with loops: `for` and `while`
